@@ -10,7 +10,7 @@
 		008A37B2A63BC1F3E33557FEF5BEE189 /* NSValue+Expecta.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FB3B1CF1D8545BE6C1777D3BED40C4A /* NSValue+Expecta.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		00B3EF135DE4634D6FA1E5EF15239824 /* EXPMatchers+endWith.h in Headers */ = {isa = PBXBuildFile; fileRef = F1896C4CF9B888167C6CE0A966946E0F /* EXPMatchers+endWith.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		00FB56B6261C07EB0083051C /* Target_ComponentA.m in Sources */ = {isa = PBXBuildFile; fileRef = 00FB56B2261C07EB0083051C /* Target_ComponentA.m */; };
-		00FB56B7261C07EB0083051C /* Target_ComponentA.h in Headers */ = {isa = PBXBuildFile; fileRef = 00FB56B3261C07EB0083051C /* Target_ComponentA.h */; };
+		00FB56B7261C07EB0083051C /* Target_ComponentA.h in Headers */ = {isa = PBXBuildFile; fileRef = 00FB56B3261C07EB0083051C /* Target_ComponentA.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		00FB56B9261C07EB0083051C /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 00FB56B5261C07EB0083051C /* ReplaceMe.m */; };
 		05BCAED08DADF67CC4711A102262D9AB /* EXPMatchers+equal.m in Sources */ = {isa = PBXBuildFile; fileRef = 63E3A1C665699BA97D3061F092477702 /* EXPMatchers+equal.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		05CFF6618B87EDE2069D4C5D3DDFF9EB /* EXPMatchers+beginWith.m in Sources */ = {isa = PBXBuildFile; fileRef = FD4EE26F5630B55F68CB933984191823 /* EXPMatchers+beginWith.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
