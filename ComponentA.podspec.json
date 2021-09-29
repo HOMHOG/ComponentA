@@ -18,7 +18,7 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "Product/ComponentA/ComponentA.framework/Headers/*.{h}",
+  "source_files": "Product/ComponentA/ComponentA.framework/Headers/*.h",
   "vendored_frameworks": "Product/ComponentA/ComponentA.framework",
   "dependencies": {
     "CTMediator": [
