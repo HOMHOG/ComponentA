@@ -1,0 +1,28 @@
+{
+  "name": "ComponentA",
+  "version": "0.3.0",
+  "summary": "A short description of ComponentA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HOMHOG/ComponentA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HOMHOG": "861573477@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/HOMHOG/ComponentA.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Product/ComponentA/ComponentA.framework/Headers/*.{h}",
+  "vendored_frameworks": "Product/ComponentA/ComponentA.framework",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
